@@ -1,0 +1,34 @@
+<style>
+<body>
+{
+    display:flex;
+    justify-content:center;
+    align-items:baseline;
+    height:100px;
+}
+h1 {
+    fontfaimly:Calibri;
+    font-size: 32px;
+   font-feature-settings:"blwm";
+   font-style: initial;
+color: rgb(255, 255, 255);
+background-color: rgb(25, 109, 137);
+lighting-color: rgb(205, 226, 43);
+font-variant:unset;
+ }
+img {
+ width: 200px;
+}
+.custom-p{
+ fontweight:bold;
+}
+body{
+    align-items: flex-start;
+    font-style: oblique;
+    font-feature-settings: "c2pc";
+    font-stretch: semi-expanded;
+    font-size: medium;
+    font-weight: bold;
+    font-variant: inherit;
+}
+</style>
